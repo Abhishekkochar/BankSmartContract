@@ -15,6 +15,7 @@ In this pool, we use the Tol token for both staking and reward. Pool farm supply
 If you change the duration uint in bankContract.sol file, you would need to update the test file wait() function accordingly. At this stage, this is set at 10secs. Same things go for the time cycle for Sub Pool 1, 2 & 3. 
 
 Both the Tol and Bank Contract have been delpoyed on Ropsten test net.
+
 Tol token cntract address:  0xE1223B936E8f00789C1092626C5be0564e6f1724,
 
 Bank contract address: 0xFB2B51250eb0371DB6ae56B67316627bDBaD4Dd3
