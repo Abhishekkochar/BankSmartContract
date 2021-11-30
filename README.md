@@ -23,4 +23,3 @@ Bank contract address: 0xFB2B51250eb0371DB6ae56B67316627bDBaD4Dd3
 Not enough Eth given by faucet on Rinkeby.So, I have to deploy on Rospten.
 
 If you have any further question. Email me at abhishekochar2@gmail.com
-if I had little more time, I would have been able to create a visual representatin of these contracts. 
